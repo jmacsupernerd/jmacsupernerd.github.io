@@ -10,16 +10,26 @@
 }
 
 h1{
-    
+    color: white;
 }
 
+h3{
+    color: white;
+}
+
+html{
+    background: #00CC00
+}
 #appListing{
-    width: 45%;
+    width: 43%;
     display: inline-block;
     float: left;
     align-content: center;
     margin-top: 20px;
-    margin: 10
+    margin: 10;
+    padding: 10px;
+    background-color: #A3FF85;
+    
 }
 
 #app_icon{
