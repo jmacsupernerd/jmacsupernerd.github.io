@@ -31,7 +31,8 @@ html{
     margin-top: 20px;
     margin: 10;
     padding: 10px;
-    background-color: #A3FF85;
+    background-color: #848484;
+    filter: alpha(opacity=50);
     
 }
 
