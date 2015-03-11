@@ -18,8 +18,11 @@ h3{
 }
 
 html{
-    background: #00CC00
+    background-image: url(images/github_background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
+
 #appListing{
     width: 43%;
     display: inline-block;
